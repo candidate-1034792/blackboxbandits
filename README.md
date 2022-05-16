@@ -10,7 +10,7 @@ _Note it may be necessary to use my forked version of Bayesmark to avoid one ass
 
 ## Documentation
 
-Docs auto-generated at [https://candidate-1034792.github.io/blackboxbandits/].
+Docs auto-generated at <https://candidate-1034792.github.io/blackboxbandits/>.
 
 ## Example usage and data
 
